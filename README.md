@@ -6,10 +6,15 @@ This data analysis project firstly will focus on existing customer data such as 
 Machine learning techniques will be our main tool for grouping the customers.  By the end of our analysis, we will try to identify the group of customers that will be eligible to receive online services engagement promotions.
 
 ### Questions we hope to answer with the data
+
 •	What is the online bank penetration in the different age ranges?
+
 •	Is there a consumer cluster more prone to use Online bank?
+
 •	In the cluster that is more prone to use Online bank, are there users that do not use or that could use it more often?
+
 •	What behaviours can be detected in customers in 2018 to predict trends and offer promotions and discounts to drive online engagement?
+
 
 ## DATABASE DIAGRAM
 ![image](https://user-images.githubusercontent.com/98247252/179640884-f3b1d072-fe4a-4ef9-b79a-b349274447b1.png)
