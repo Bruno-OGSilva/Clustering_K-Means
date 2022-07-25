@@ -1,4 +1,0 @@
-Access Database:
-
-dataviz.ce3i6u4ewfvq.us-east-2.rds.amazonaws.com
-user: postgres
