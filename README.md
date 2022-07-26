@@ -59,8 +59,11 @@ Dashboard
 The Dashboard will consiste in the following parts:
 
 1- Demographics distribution of “Owners”
+
 2- Overview on Owner’s spending habits
+
 3- Testing  the different machine learning models
+
 4- Discussing the results of the different Machine Learning Model
 
 As of this part of the process, in order to understand what are the code features that better answer to our problem statment, we have created the third part of the dashboard '3- Testing  the different machine learning models', find it in the link: [Dashboard](https://public.tableau.com/views/FianlProject-ClusteringScenarios/Story1?:language=pt-BR&:display_count=n&:origin=viz_share_link)
