@@ -52,6 +52,7 @@ We have uploaded different verison of out machine learning code on the repositor
 
 The limitations of using an unsupervised machine learning model is that the output data is unknown and there is less accuracy with the results. Additional, there is lack of transparency with the results due to not having a foundation for the clustering. However, the benefits of unsupervised machine learning is that we are able to classify data without any labels and learn the trends and patterns of the data without specifying an output. Labels can be added after the data has been analyzed and clustered.
 
+## Presentation
 
 Our presentation is under construction to review is the link below:
 
