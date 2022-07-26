@@ -1,4 +1,6 @@
-# Data Analytics Procject
+# Data Analytics Project
+
+## SEGMENT 1
 
 UofT Credit Union is a financial institution that provides financial services including checking and saving accounts, financial advice, mortgages and more. 
 According to the latest reports, shareholders found that digital engagement between the company and customers is lower than the expected rate. We know that online services are the fastest and most efficient way to reach the customer to present profitable products. 
@@ -23,3 +25,21 @@ Machine learning techniques will be our main tool for grouping the customers.  B
 ## Machine Learning Model Mock Up
 ![image](https://user-images.githubusercontent.com/98247252/179640801-8f12bc81-55e8-438e-94af-74cabd815250.png)
 
+
+## SEGMENT 2
+
+On this part of project we used AWS with PostgresQL.
+
+Here is the Schema to create the tables:
+
+[Schema.sql](https://github.com/mustafaikizler/Data_Analytics_Project/blob/5cdfc3c21453d4cee6e7fbec4d151eeb3a630c9e/Schema.sql)
+
+All the Csv files to be uploaded on Database are on AWS S3.
+
+Here is the code used to get the data, clean, and upload on database.
+
+[Final_Project_DataBase.ipynb](https://github.com/mustafaikizler/Data_Analytics_Project/blob/5cdfc3c21453d4cee6e7fbec4d151eeb3a630c9e/Final_Project_DataBase.ipynb)
+
+For create a better visualization we have created a view, with joins, and group by, and our machine learning can access these view.
+
+[data_query.sql](https://github.com/mustafaikizler/Data_Analytics_Project/blob/5cdfc3c21453d4cee6e7fbec4d151eeb3a630c9e/data_query.sql)
