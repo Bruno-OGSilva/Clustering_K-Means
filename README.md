@@ -43,3 +43,6 @@ Here is the code used to get the data, clean, and upload on database.
 For create a better visualization we have created a view, with joins, and group by, and our machine learning can access these view.
 
 [data_query.sql](https://github.com/mustafaikizler/Data_Analytics_Project/blob/5cdfc3c21453d4cee6e7fbec4d151eeb3a630c9e/data_query.sql)
+
+![image](https://user-images.githubusercontent.com/100812079/180897393-8b272e1f-ddee-4a17-9f59-9b64f556063b.png)
+
