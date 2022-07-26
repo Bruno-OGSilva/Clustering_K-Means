@@ -47,14 +47,17 @@ For create a better visualization we have created a view, with joins, and group 
 ![image](https://user-images.githubusercontent.com/100812079/180897393-8b272e1f-ddee-4a17-9f59-9b64f556063b.png)
 
 
+## Machine Learning
+We have uploaded different verison of out machine learning code on the repository. Our machine learning code begins with importing all necessary packages/ modules. We will read and load the dataset into a dataframe. We will go over all the columns and remove any columns that are not necessary to the analysis. We will check the data type of each feature and transform as needed. Then, we will remove any rows where there is at least 1 null value and drop any duplicates. Once the data is cleaned and ready to be analyzed, we will remove the owner ID since it will not be used in the clustering algorithm. The status of all owner's is kept if they are active and then the column can be dropped. After, we will create variables for the text features and standardize the data. The text features chosen are based on keeping the demographics and so that the numerical data can be understood. Once data is standardized, we will go through dimension reduction via principal component analysis. The Elbow Curve method is used to find Centroids (number of clusters) and the K-means Algorithm is initialized to define the clusters. We fit the model and predict the clusters. A new dataframe is created using the predicted clusters and features and merge the dataframe with the principal component analysis dataframe. The owner ID’s column is re-added into the clustered dataframe. The cluster results are then visualized with 2D and 3D plots.
 
+The limitations of using an unsupervised machine learning model is that the output data is unknown and there is less accuracy with the results. Additional, there is lack of transparency with the results due to not having a foundation for the clustering. However, the benefits of unsupervised machine learning is that we are able to classify data without any labels and learn the trends and patterns of the data without specifying an output. Labels can be added after the data has been analyzed and clustered.
 
 
 Our presentation is under construction to review is the link below:
 
 [Final Presentation](https://docs.google.com/presentation/d/1hfBPAcR9mq71toewjbxO7A2JB9-PezxA5cw8_8-KOGA/edit?usp=sharing)
 
-Dashboard
+## Dashboard
 
 The Dashboard will consiste in the following parts:
 
