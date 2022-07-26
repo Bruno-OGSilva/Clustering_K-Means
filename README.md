@@ -46,3 +46,10 @@ For create a better visualization we have created a view, with joins, and group 
 
 ![image](https://user-images.githubusercontent.com/100812079/180897393-8b272e1f-ddee-4a17-9f59-9b64f556063b.png)
 
+
+
+
+
+Our presentation is under construction to review is the link above:
+[Final Presentation](https://docs.google.com/presentation/d/1hfBPAcR9mq71toewjbxO7A2JB9-PezxA5cw8_8-KOGA/edit?usp=sharing)
+
