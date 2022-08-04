@@ -56,7 +56,7 @@ The limitations of using an unsupervised machine learning model is that the outp
 
 Our presentation is under construction to review is the link below:
 
-[Final Presentation](https://docs.google.com/presentation/d/1hfBPAcR9mq71toewjbxO7A2JB9-PezxA5cw8_8-KOGA/edit?usp=sharing)
+[Final Presentation](https://www.canva.com/design/DAFIRnfQyQI/YKIs7nuG0unoJCYCAM9elw/edit?utm_content=DAFIRnfQyQI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Dashboard
 
