@@ -75,7 +75,7 @@ As of this part of the process, in order to understand what are the code feature
 
 ## SEGMENT 3
 
-- Presentation
+[Final Presentation](https://www.canva.com/design/DAFIRnfQyQI/YKIs7nuG0unoJCYCAM9elw/edit?utm_content=DAFIRnfQyQI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
 - Machine Learning
