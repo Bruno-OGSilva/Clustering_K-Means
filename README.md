@@ -80,6 +80,8 @@ As of this part of the process, in order to understand what are the code feature
 
 - Machine Learning
 
+https://github.com/mustafaikizler/Data_Analytics_Project/blob/c78748bc8225daf48ff7639588b7a55841ef215f/Final_Project_Cluster_scenario.ipynb
+
 
 - Dashboard
 
