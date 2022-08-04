@@ -80,7 +80,7 @@ As of this part of the process, in order to understand what are the code feature
 
 - Machine Learning
 
-As seen in segment 2, we chose to you undersupervised machine learning model. Several models were run and the results were analyzed and visualized on Tableau.
+As seen in segment 2, we chose to use unsupervised machine learning model. Several models were run and the results were analyzed and visualized on Tableau.
 
 [Final_Project_Cluster_scenario.ipynb](https://github.com/mustafaikizler/Data_Analytics_Project/blob/31007939bd62fee71b19fd7c2d0d71bbf3ba3819/Final_Project_Cluster_scenario.ipynb)
 
