@@ -80,6 +80,11 @@ As of this part of the process, in order to understand what are the code feature
 
 - Machine Learning
 
+[Final_Project_Cluster_scenario.ipynb](https://github.com/mustafaikizler/Data_Analytics_Project/blob/31007939bd62fee71b19fd7c2d0d71bbf3ba3819/Final_Project_Cluster_scenario.ipynb)
+
+[Owners Transactions_MinMax_PCA3_K5.ipynb](https://github.com/mustafaikizler/Data_Analytics_Project/blob/31007939bd62fee71b19fd7c2d0d71bbf3ba3819/Owners%20Transactions_MinMax_PCA3_K5.ipynb)
+
+[Unsupervised ML- Rachel.ipynb](https://github.com/mustafaikizler/Data_Analytics_Project/blob/31007939bd62fee71b19fd7c2d0d71bbf3ba3819/Unsupervised%20ML-%20Rachel.ipynb)
 
 - Dashboard
 
