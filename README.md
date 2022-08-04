@@ -77,7 +77,11 @@ As of this part of the process, in order to understand what are the code feature
 
 ### Preliminary slide deck
 
+Presentation will be in 2 steps;
+1- Canva: Background of the company, technologies and current problem
+2- Tableau: Explanation of the machine learning model and conclusion
 [Final Presentation](https://www.canva.com/design/DAFIRnfQyQI/YKIs7nuG0unoJCYCAM9elw/edit?utm_content=DAFIRnfQyQI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 
 
 ### Machine Learning
