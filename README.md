@@ -75,14 +75,12 @@ As of this part of the process, in order to understand what are the code feature
 
 ## SEGMENT 3
 
-Final presentation will be in two steps:
-- Canva presentation: Background of the company and explanation of the problem
-- Tableau Dashboard: Explanation machine learning process
+### Preliminary slide deck
 
 [Final Presentation](https://www.canva.com/design/DAFIRnfQyQI/YKIs7nuG0unoJCYCAM9elw/edit?utm_content=DAFIRnfQyQI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
-- Machine Learning
+### Machine Learning
 
 As seen in segment 2, we chose to use unsupervised machine learning model. Several models were run and the results were analyzed and visualized on Tableau.
 
@@ -92,6 +90,18 @@ As seen in segment 2, we chose to use unsupervised machine learning model. Sever
 
 [Unsupervised ML- Rachel.ipynb](https://github.com/mustafaikizler/Data_Analytics_Project/blob/31007939bd62fee71b19fd7c2d0d71bbf3ba3819/Unsupervised%20ML-%20Rachel.ipynb)
 
-- Dashboard
+### Dashboard
 
+The Dashboard will consiste in the following parts:
 
+1- Demographics distribution of “Owners”
+
+2- Overview on Owner’s spending behaviour
+
+3- Testing  the different machine learning models
+
+4- Share the main finds of the chosen Machine Learning Model
+
+As of this part of the process, in order to understand what are the code features that better answer to our problem statment, we have created the third part of the dashboard '3- Testing  the different machine learning models', find it in the link: [Dashboard](https://public.tableau.com/views/FinalProject-ClusteringScenarios/Story1?:language=pt-BR&:display_count=n&:origin=viz_share_link)
+
+Using the above dashboard the group defined that the code [Owners Transactions_MinMax_PCA3_K5.ipynb](https://github.com/mustafaikizler/Data_Analytics_Project/blob/31007939bd62fee71b19fd7c2d0d71bbf3ba3819/Owners%20Transactions_MinMax_PCA3_K5.ipynb) is the one suits best to solve our business problem.
