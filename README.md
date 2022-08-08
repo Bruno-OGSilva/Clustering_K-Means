@@ -109,3 +109,14 @@ The Dashboard will consiste in the following parts:
 As of this part of the process, in order to understand what are the code features that better answer to our problem statment, we have created the third part of the dashboard '3- Testing  the different machine learning models', find it in the link: [Dashboard](https://public.tableau.com/views/FinalProject-ClusteringScenarios/Story1?:language=pt-BR&:display_count=n&:origin=viz_share_link)
 
 Using the above dashboard the group defined that the code [Owners Transactions_MinMax_PCA3_K5.ipynb](https://github.com/mustafaikizler/Data_Analytics_Project/blob/31007939bd62fee71b19fd7c2d0d71bbf3ba3819/Owners%20Transactions_MinMax_PCA3_K5.ipynb) is the one suits best to solve our business problem.
+
+
+## SEGMENT 4
+
+Our presentation will be in 2 steps:
+
+1 - Canva
+
+[Presentation](https://www.canva.com/design/DAFIRnfQyQI/YKIs7nuG0unoJCYCAM9elw/edit?utm_content=DAFIRnfQyQI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+2 - Tableau
