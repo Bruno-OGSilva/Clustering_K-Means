@@ -121,4 +121,4 @@ Our presentation will be in 2 steps:
 
 2 - Tableau
 
-[Dashboard] (https://public.tableau.com/views/UofT_Dashboard_finalproject/UofTCreditUnion-ClusteringAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+[Dashboard](https://public.tableau.com/views/UofT_Dashboard_finalproject/UofTCreditUnion-ClusteringAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
