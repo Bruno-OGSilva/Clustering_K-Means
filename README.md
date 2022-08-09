@@ -120,3 +120,5 @@ Our presentation will be in 2 steps:
 [Presentation](https://www.canva.com/design/DAFIRnfQyQI/YKIs7nuG0unoJCYCAM9elw/edit?utm_content=DAFIRnfQyQI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 2 - Tableau
+
+[Dashboard] (https://public.tableau.com/views/UofT_Dashboard_finalproject/UofTCreditUnion-ClusteringAnalysis?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
